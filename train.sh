@@ -1,0 +1,1 @@
+python train.py --epochs 4 --learning_rate 0.01 --arch 'vgg' --hidden_units 102
